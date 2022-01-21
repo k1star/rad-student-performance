@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.447,=C:\Users\user\Documents\Builder projects\StudentsSession\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\user\Documents\Builder projects\StudentsSession\AboutProgram.cpp=C:\Users\user\Documents\Builder projects\StudentsSession\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\user\Documents\Builder projects\StudentsSession\StudentsSession.h=C:\Users\user\Documents\Builder projects\StudentsSession\mainWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\user\Documents\Builder projects\StudentsSession\AboutProgram.dfm=C:\Users\user\Documents\Builder projects\StudentsSession\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\user\Documents\Builder projects\StudentsSession\AboutProgram.h=C:\Users\user\Documents\Builder projects\StudentsSession\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\user\Documents\Builder projects\Unit1.dfm=C:\Users\user\Documents\Builder projects\StudentsSession\StudentsSession.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\user\Documents\Builder projects\Unit1.h=C:\Users\user\Documents\Builder projects\StudentsSession\StudentsSession.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,C:\Users\user\Documents\Builder projects\Project1PCH1.h=C:\Users\user\Documents\Builder projects\StudentsSession\StudentsProjectH.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,=C:\Users\user\Documents\Builder projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\user\Documents\Builder projects\StudentsSession\StudentsSession.cpp=C:\Users\user\Documents\Builder projects\StudentsSession\mainWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,C:\Users\user\Documents\Builder projects\Project1.cbproj=C:\Users\user\Documents\Builder projects\StudentsSession\StudentsProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\user\Documents\Builder projects\StudentsSession\StudentsSession.dfm=C:\Users\user\Documents\Builder projects\StudentsSession\mainWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\user\Documents\Builder projects\Unit1.cpp=C:\Users\user\Documents\Builder projects\StudentsSession\StudentsSession.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.247,=C:\Users\user\Documents\Builder projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
